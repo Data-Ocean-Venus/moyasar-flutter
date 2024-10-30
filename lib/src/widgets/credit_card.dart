@@ -115,7 +115,7 @@ class _CreditCardState extends State<CreditCard> {
       key: _formKey,
       child: Column(
         children: [
-          Text("Hello World"),
+          Text("Hello Amoor"),
           CardFormField(
               inputDecoration: buildInputDecoration(
                   hintText: widget.locale.nameOnCard,
